@@ -1,0 +1,7 @@
+start,end,label
+soar,vr,task VR to get data or file
+vr,hosts,gets data from hosts
+vr,vr_datastore,puts files or data in storage
+soar,vr_datastore,checks location for new data
+soar,analysis,pushes data or files through analysis
+soar,jira,raises ticket for alerts being done for analysis.
